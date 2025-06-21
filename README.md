@@ -16,7 +16,7 @@ If you have technical knowledge, you will see how this fits into enterprise UI t
 
 ## Terms
 
--   **Mode**: 3 [modes](/guide/features/parrot-assistant/agent/highlights#%EF%B8%8F-adaptability-meets-predictability) we support:
+-   **Mode**: 3 [modes](https://hubrowser.com/guide/features/parrot-assistant/agent/highlights) we support:
     -   `instruction`: Natural Language instruction for the action
     -   `recording`: Recorded automation steps
     -   `script`: Scripted automation steps
